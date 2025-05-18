@@ -10,6 +10,5 @@ This project demonstrates fine-tuning a pre-trained transformer-based MarianMT m
 
 - **Model:** `Helsinki-NLP/opus-mt-en-de` (MarianMT)
 - **Framework:** Hugging Face Transformers
-- **Dataset:** Small custom dataset with 3 sentence pairs (English - German)
 - **Training:** Fine-tuning with `Seq2SeqTrainer` for 1 epoch
 - **Environment:** Python, PyTorch (supports GPU if available)
