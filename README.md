@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This project demonstrates fine-tuning a pre-trained transformer-based MarianMT model (from Helsinki-NLP) for English-to-German translation using a small custom dataset. The goal is to adapt the general model slightly with specific training examples to improve translation quality on domain-specific sentences.
+This project demonstrates Fine-tuning a pre-trained transformer-based MarianMT model (from Helsinki-NLP) for English-to-German translation using a small custom dataset. The goal is to adapt the general model slightly with specific training examples to improve translation quality on domain-specific sentences.
 
 ## Model and Tools
 
